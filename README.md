@@ -2,6 +2,26 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## 📌 Overview
+This is a **Next.js** project built with **React, TypeScript, and Clerk authentication**. It includes:
+- ✅ **Server-side and Client-side rendering**
+- ✅ **Authentication with Clerk**
+- ✅ **API Integration**
+- ✅ **Responsive UI with Tailwind CSS**
+
+![image 皮尤什帕特尔代码](https://github.com/user-attachments/assets/181b92d2-9da0-4100-8ba9-4c22047b12bc)
+
+
+
+ 
+## 🛠 Tech Stack
+- **Next.js** - React framework for full-stack applications
+- **React** - UI Components
+- **TypeScript** - Static Typing
+- **Tailwind CSS** - Styling
+- **Clerk** - Authentication
+- **Axios** - API requests
+
 First, run the development server:
 
 ```bash
